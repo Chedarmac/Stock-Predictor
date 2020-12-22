@@ -1,1 +1,1 @@
-# Real-Time-Stock-Predictions
+# Stock Predictor
